@@ -79,7 +79,7 @@ const AppForm = (props) => {
         </select> <br/>
 
         <button>
-          {props.idActual =="" ? "Guadar" : "Actualizar"}
+          {props.idActual =="" ? "Guardar" : "Actualizar"}
         </button>
       </form>
     </div>
